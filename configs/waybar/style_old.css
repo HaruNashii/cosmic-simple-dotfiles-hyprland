@@ -7,14 +7,12 @@
 }
 
 window#waybar {
-	/* background: #000000; */
-	background: transparent;
+  background: #000000;
 }
 
 #tray, #clock, #pulseaudio, #network {
   border-radius: 0px;
-  /* background-color: #000000; */
-  background: transparent;
+  background-color: #000000;
   color: #ffffff;
   margin-top: 0px;
   padding-left: 10px;
