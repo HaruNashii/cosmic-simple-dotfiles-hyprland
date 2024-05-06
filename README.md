@@ -21,5 +21,7 @@ Lock Screen
 - ueberzug (for ranger image display)
 - ffmpeg && ffmpegthumbnailer (for ranger video preview display)
 - mpv (for mpvpaper)
+
+## fonts
 - ttf-jetbrains-mono-nerd (for icons and text in waybar, terminal and wofi)
 - ttf-font-awesome (for icons in neofetch)
