@@ -7,6 +7,7 @@ Lock Screen
 ## Apps
 - Window Manager - Hyprland
 - Bar - Waybar
+- Notification Daemon - Dunst
 - App Launcher and Runner - Wofi
 - Terminal - Alacritty
 - Shell - Bash
@@ -23,5 +24,5 @@ Lock Screen
 - mpv (for mpvpaper)
 
 ## fonts
-- ttf-jetbrains-mono-nerd (for icons and text in waybar, terminal and wofi)
+- ttf-jetbrains-mono-nerd && ttf-jetbrains-mono (for icons and text in waybar, terminal and wofi)
 - ttf-font-awesome (for icons in neofetch)

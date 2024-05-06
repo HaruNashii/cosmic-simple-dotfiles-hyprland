@@ -20,7 +20,7 @@ sudo pacman -S ffmpeg ffmpegthumbnailer
 paru -S ueberzugpp
 
 # install fonts
-sudo pacman -Sy ttf-font-awesome ttf-jetbrains-mono-nerd
+sudo pacman -Sy ttf-font-awesome ttf-jetbrains-mono-nerd ttf-jetbrains-mono
 fc-cache
 
 
