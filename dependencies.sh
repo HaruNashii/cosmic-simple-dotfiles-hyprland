@@ -12,7 +12,7 @@ cd $HOME
 
 
 # install apps
-sudo pacman -Sy waybar wofi neovim hyprlock mpv alacritty neofetch dunst ranger
+sudo pacman -Sy waybar wofi neovim hyprlock hyprpaper mpv alacritty neofetch dunst ranger
 paru -S mpvpaper
 
 # install dependencies

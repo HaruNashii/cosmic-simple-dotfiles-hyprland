@@ -6,6 +6,7 @@ Lock Screen
 
 ## Apps
 - Window Manager - Hyprland
+- Lock Screen - Hyprlock
 - Bar - Waybar
 - Notification Daemon - Dunst
 - App Launcher and Runner - Wofi
@@ -15,7 +16,7 @@ Lock Screen
 - File Manager - Ranger
 - IDE - Neovim
 - Animated Wallpaper - mpvpaper
-- Lock Screen - Hyprlock
+- Static Wallpaper - Hyprpaper
 
 
 ## Dependencies
