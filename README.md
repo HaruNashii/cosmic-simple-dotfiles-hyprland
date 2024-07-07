@@ -1,3 +1,6 @@
+> [!WARNING]
+> I'm still tweakin some configs, some apps color/theme may be inconsistent
+
 ## Showcase
 ![image](https://github.com/HaruNashii/cosmic-simple-dotfiles-hyprland/assets/116776134/7ba99c67-4cae-4284-968f-769c38994f55)
 Lock Screen
